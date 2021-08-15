@@ -6,7 +6,7 @@ This is the simple banking system where user can be created and money can be tra
 Technology Used 
 Front end:HTML,CSS,Bootsrap
 Back end:PHP
-Database:MySQL
+Database:MySQL.
 
 
 
