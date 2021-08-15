@@ -10,7 +10,7 @@ Front end:HTML,CSS,Bootsrap
 
 Back end:PHP
 
-Database:MySQL.
+Database:MySQL
 
 
 
